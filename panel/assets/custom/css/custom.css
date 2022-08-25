@@ -1,0 +1,19 @@
+.easy-autocomplete {
+	width: 73% !important;
+}
+
+.card .card-footer ul li {
+	padding: 0 !important;
+}
+.print-body{
+	background-color: white;
+	font-family: "Lucida Console" !important; 	
+	font-size: 26 !important;
+}
+.print-td-th{
+	border-bottom-color: black !important;
+}
+
+.message-list li .col-mail-1 .title {
+	left: 0 !important;
+}
